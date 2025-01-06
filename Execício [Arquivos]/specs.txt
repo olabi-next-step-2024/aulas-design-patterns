@@ -1,0 +1,11 @@
+Sistema de Cadastro de Alunos
+
+Objetivo: Criar um sistema que gerencie informações sobre alunos e disciplinas usando classes, herança e polimorfismo.
+    - Crie uma classe base Pessoa com atributos comuns como nome e idade.
+    - Derive uma classe Aluno que inclui atributos adicionais como matrícula e um std::map para armazenar as disciplinas e notas.
+    - Implemente um método para calcular a média do aluno e determinar se ele está aprovado (média ≥ 7).
+    - Use std::shared_ptr para gerenciar instâncias de Aluno.
+    - Implemente uma funcionalidade para salvar e carregar as informações de alunos em um arquivo.
+    - Dica:
+        - Use std::ofstream e std::ifstream para manipulação de arquivos.
+    - Utilize STL para buscar alunos por nome ou matrícula.

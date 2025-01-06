@@ -1,0 +1,6 @@
+{
+    "decorator": "Ultiliza de herenca para adicionar propriedades e comportamentos ao codigo. Ao invez de inflalo com extensoes expecificas, elas herdao do Component original",
+    "observer": "Mecanismo analogo ao PUB-SUB, aonde classes podem se inscrever para receberem notificacoes referente a modificacoes no objeto que elas possuem interesse",
+    "prototype": "Metodo para criar copias de objetos sem se tornar dependete da classe deles. O padrao declara uma interface para que todos os objetos que suportem clonagem. Permitindo assim que voce faca a clonagem de um objeto sem necessidade de saber como e a sua classe concreta e quais atributos ele possui",
+    "state": "O Padrao preve que ao invex de criar stados para o objeto, seja criado uma classe expecifica, com todos os comportamentos esperados para cada um dos possiveis estados, e que o objeto possua apenas uma referencia ao objeto do estado que representa seu estado atual"
+}

@@ -1,0 +1,6 @@
+João, 20, 101
+Disciplinas: 
+matematica: 7.5, portugues: 5.5, 
+Tião, 18, 102
+Disciplinas: 
+historia: 3.56, matematica: 8, 

@@ -1,0 +1,6 @@
+{
+    "factory": "Nesse exeplo vemos alguns usos dos objetivos do factory,quando estamos criando seus componentes o cliente nao sabe exatamente qual implementaçao expecifica ele esta usando, quem permite isso é a fabrica. Vemos que a fabrica cria os elementos sem saber detalhes concretos o cliente somente pode usar",
+    "adapter": "Vai servir pra adaptar interfaces que seriam incompativeis, nesse explo nossa classe adapter vai ter um abjeto adaptee, que vai servir como adaptador para os requisitos necessrios e assim o client podera fazer o request",
+    "composite": "O composite vai permitir que vc crie como se fosse uma estrutura de arvores, no exemplo por exemplo estamos falando de um sistema de arquivos, dentro do sistema vc pode ter files mas tbm pode ter folder e dentro do folder vc pode tanto ter um file quanto outra folder, o composite permite que isso seja feito, vc pode acrescentar qualquer uma das entity",
+    "memento": "Vai permitir que vc salve e restaure versoes anteriores, vemos isso no exemplo pois temos a classe history, onde podemos dar undo e obter o que tinhamos antes"
+}
